@@ -1,4 +1,5 @@
 
+
 "Death Note" follows the story of Light Yagami, a high school student who discovers a supernatural notebook that allows him to kill anyone by simply writing their name in it.
 Driven by his desire to rid the world of criminals and create a utopia under his rule, Light begins using the Death Note to execute those he deems unworthy.
 His actions attract the attention of law enforcement agencies and a mysterious detective known only as "L." 
@@ -7,5 +8,8 @@ As the body count rises and the stakes escalate, Light's god complex grows, lead
 Alongside the main narrative, complex moral and philosophical themes are explored, questioning the nature of justice, morality, and the abuse of power. 
 The story reaches its climax with shocking twists and betrayals, ultimately revealing the true extent of Light's hubris and the consequences of playing with forces beyond mortal comprehension.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?
+Light, intoxicated by his power and the initial success of his crusade, grows increasingly arrogant. He starts eliminating criminals outside of legal systems, manipulating situations to ensure his targets die of apparent heart attacks or accidents.
+This facade of "Kira," the God of Death, further bolsters his delusion of control.  
+Meanwhile, L's investigation intensifies. 
+He gathers a task force, meticulously analyzing past Kira killings and the details Light might have overlooked. 
+The team develops a profile of a highly intelligent, ambitious individual with a strong moral compass – a profile that starts to eerily resemble Light Yagami.
