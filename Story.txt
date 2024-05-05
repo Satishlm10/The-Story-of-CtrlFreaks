@@ -1,5 +1,3 @@
-
-
 "Death Note" follows the story of Light Yagami, a high school student who discovers a supernatural notebook that allows him to kill anyone by simply writing their name in it.
 Driven by his desire to rid the world of criminals and create a utopia under his rule, Light begins using the Death Note to execute those he deems unworthy.
 His actions attract the attention of law enforcement agencies and a mysterious detective known only as "L." 
@@ -14,7 +12,6 @@ Meanwhile, L's investigation intensifies.
 He gathers a task force, meticulously analyzing past Kira killings and the details Light might have overlooked. 
 The team develops a profile of a highly intelligent, ambitious individual with a strong moral compass – a profile that starts to eerily resemble Light Yagami.
 
-Trying to create merge conflicts through this. 
 
 Amidst the escalating tension between Light and L, a new player enters the fray in the form of Misa Amane, a charismatic young woman infatuated with Kira's actions. Misa's unwavering devotion blinds her to the consequences of her idolization as she willingly offers her assistance to Light, using her own Death Note to further his agenda. Her arrival complicates the dynamics between Light and L, with Light seeing her as a useful pawn and L viewing her with suspicion, recognizing her potential to disrupt his investigation. As Misa's involvement deepens, the lines between ally and adversary blur, adding yet another layer of complexity to the deadly game of wits between Light and L.
 
